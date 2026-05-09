@@ -4,9 +4,7 @@
 
 
 <h2>Description</h2>
-In this research, we used a real dataset on used cars, which was taken from the Kaggle website and collected based on used car ads on eBay. 
-The dataset includes features related to technical and economic information of cars. The main features include manufacturer (car brand), model, year of manufacture, mileage (vehicle usage rate), fuel type, transmission, and sales price. These features are among the most important factors affecting the value of used cars and have been used in many related studies and lectures. Sales price, predictive value analysis is the target of this project.
-
+A decision tree classification model was developed to predict whether an individual's salary exceeds 1,000, based on their educational degree, job title, and employer. 
 <br />
 
 
@@ -14,59 +12,6 @@ The dataset includes features related to technical and economic information of c
 
 <h2>Program walk-through:</h2>
 
-
-- <b>1.Data cleaning and renaming</b> 
-- <b>2.Visualizing:</b>
-- <b>Distribution of selling price</b> 
-- <b>Relationship between mileage and price</b>
-- <b>Price difference by fuel type or transmission </b> 
-- <b>Top 10 most common makes and their average resale price </b>
-- <b>3.Applying classification model whether a car is “High Value” or “Low Value.” (spliting data into test/train,Applying  logistic regression)
-</b> 
-
-
-
-
-
-<h2>Program Visualizations:</h2>
-
-- <b>Distribution of selling price </b> 
-
-
-<p align="center">
-
-<br/>
-<img src="https://i.imgur.com/1uVMLjm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-- <b>relationship between mileage and price </b> 
-
-
-<p align="center">
-
-<br/>
-<img src="https://i.imgur.com/lgHht9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
- - <b>price difrence by fuel type </b> 
-
-
-<p align="center">
-
-<br/>
-<img src="https://i.imgur.com/3pcHVUk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
- - <b>price by transmission types </b> 
-
-
-<p align="center">
-
-<br/>
-<img src="https://i.imgur.com/QEN40SA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
- - <b> Top 10 repeated brand in datas and medium price of them </b> 
 
 
 <p align="center">
